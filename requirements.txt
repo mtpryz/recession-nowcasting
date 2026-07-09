@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+fredapi
+tensorflow
+scikit-learn
+statsmodels
+xgboost
